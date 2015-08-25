@@ -1,0 +1,99 @@
+.res RES_FONT
+.bin
+.include "Fonts/ZompocalypseFont.mof"
+
+
+
+
+.res RES_SELECTED
+.image "Images/Buttons/background_tile_sel.png"
+
+.res RES_UNSELECTED
+.image "Images/Buttons/red_button.png"
+
+.res SHOOT
+.image "Images/Buttons/shootButton.png"
+
+.res MENU
+.image "Images/Buttons/menuButton.png"
+
+.res PISTOL
+.image "Images/Buttons/pistolButton.png"
+
+.res SHOTGUN
+.image "Images/Buttons/shotgunButton.png"
+
+
+
+
+.res ZOM_SPAWNER
+.image "Images/Object/Tombstone.png"
+
+.res ZOMBIE
+.image "Images/Object/zombie.png"
+
+.res HEROGUN
+.image "Images/Object/hero.png"
+
+.res HERORES
+.image "Images/Object/heroRes.png"
+
+
+
+.res GAMEOVER
+.image "Images/BGS/GameOverBG2.png"
+
+
+
+.res RES_BG1
+.image "Images/BGS/grass_BG_cut.png"
+
+.res CHANGEBG0
+.image "Images/BGS/dirt_bg_cut.png"
+
+.res CHANGEBG1
+.image "Images/BGS/grass_BG_cut.png"
+
+.res CHANGEBG2
+.image "Images/BGS/road_BG_cut.png"
+
+
+
+
+.res HELP0
+.image "Images/Helps/icon3.png"
+
+.res HELP1
+.image "Images/Helps/Fleur_de_lis.png"
+
+.res HELP2
+.image "Images/Helps/icon1.png"
+
+.res HELP3
+.image "Images/Helps/icon2.png"
+
+.res HELP4
+.image "Images/Helps/Fleur_de_lis.png"
+
+
+
+
+.res WALL
+.image "Images/Object/wall.png"
+
+.res VWALL
+.image "Images/Object/verticalWall.png"
+
+
+
+.res WOOD
+.image "Images/Resources/woodRes.png"
+
+.res FOODWATER
+.image "Images/Resources/foodWaterRes.png"
+
+.res BULLETS
+.image "Images/Resources/bulletsRes.png"
+
+.res METAL
+.image "Images/Resources/metalRes.png"
